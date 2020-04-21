@@ -1,4 +1,4 @@
-# Yellowlab-auto-scan
+# Yellowlab api 
 This code allow you to start scan(with url that you entered in code) and get a json file in result
 
 '''
